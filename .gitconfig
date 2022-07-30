@@ -1,0 +1,9 @@
+[user]
+        email = goqhadl9298@gmail.com
+        name = Junhyuk So
+
+[alias]
+        b = branch
+        s = status
+        d = difftool -y -t vimdiff
+        l = log --all --graph --pretty=format:'%C(red)%h%Creset - %C(green)%ci%Creset by %C(bold blue)%an %Creset %s %C(auto)%d%Creset' --abbrev-commit
